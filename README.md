@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @WolganStark.
-- 👀 I’m interested in Game development.
-- 🌱 I’m currently learning C++, Python, Javascript and Java.
 - 📫 You can reach me in ing.staffelbach@gmail.com.
 
 <!---
