@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @WolganStark.
-- 📫 You can reach me in ing.staffelbach@gmail.com.
+- 👋 Hola, Soy Nicolás.
+- 📫 Puedes contactarte conmigo en `ing.staffelbach@gmail.com`, o en `https://www.linkedin.com/in/nicolas-staffelbach`.
 
 <!---
 WolganStark/WolganStark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
